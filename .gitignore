@@ -68,7 +68,6 @@ fabric.properties
 **/target
 **/.settings
 
-tmp.sh
 **/.project.bak
 **/.project
 **/git.properties
