@@ -2,10 +2,6 @@ package com.ejobim.spring;
 
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
-import java.lang.reflect.Field;
-import java.util.Collection;
-import java.util.HashMap;
-import java.util.Map;
 
 /**
  * 业务响应结果
