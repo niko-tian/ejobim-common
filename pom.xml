@@ -13,7 +13,7 @@
     <groupId>com.github.niko-tian</groupId>
     <artifactId>ejobim-common</artifactId>
     <packaging>jar</packaging>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0</version>
     <description>ejobim-common</description>
 
     <licenses>
@@ -33,7 +33,7 @@
         <developer>
             <name>niko-tian</name>
             <email>taozhitian@126.com</email>
-            <organization>xxx</organization>
+            <organization>ejobim</organization>
         </developer>
     </developers>
 
